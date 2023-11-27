@@ -1,4 +1,4 @@
-# Tweets-Sentiment-DeBERTa
+# Tweets Sentiment Classification with DeBERTa in Pytorch
 
 ## ML4NLP WiSe 2021/22 Challenge
 
